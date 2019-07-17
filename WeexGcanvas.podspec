@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
  # s.source =  { :path => '.' }
-  s.source =  { :git => "https://github.com/alibaba/GCanvas.git", :tag => s.version }
+  s.source =  { :git => "git@github.com:lz156/GCanvas.git", :tag => s.version }
 
   s.source_files  = "GCanvas/bridges/weex-bridge/ios/sdk/Sources/*.{h,m,mm}"
 
