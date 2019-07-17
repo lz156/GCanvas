@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "GCanvas"
-  s.version      = "1.0.6"
+  s.version      = "1.0.6.1"
   s.summary      = "GCanvas Source."
 
   s.description  = <<-DESC
